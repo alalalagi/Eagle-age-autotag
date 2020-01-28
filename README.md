@@ -5,8 +5,8 @@
 Results from [age-estimation-pytorch](https://github.com/yu4u/age-estimation-pytorch):
 <img src="example.png" width="800px">
 
-實際標籤結果
-<img src="example2.PNG" width="600px">
+實際標籤結果:
+<img src="example2.PNG" width="800px">
 
 ## Requirements
 ```bash
