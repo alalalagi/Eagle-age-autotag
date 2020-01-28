@@ -9,7 +9,7 @@ Results from [age-estimation-pytorch](https://github.com/yu4u/age-estimation-pyt
 pip install -r requirements.txt
 ```
 ## 使用方法: 執行autotag_main.py
-> 因為是自用，就沒有改成從cmd執行的方式了，本人很懶
+> 因為是自用，就沒有改成從terminal執行的方式了，本人很懶
 #### 設定database路徑
 ```bash
 libpath = 'D:\\Eagle Database\\tag_test.library'
