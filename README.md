@@ -8,9 +8,9 @@ Results from [age-estimation-pytorch](https://github.com/yu4u/age-estimation-pyt
 ```bash
 pip install -r requirements.txt
 ```
-## 使用方法:開啟autotag_main.py
+## 使用方法: 執行autotag_main.py
 > 因為是自用，就沒有改成從cmd執行的方式了，本人很懶
-#### 設定database路徑,ex:
+#### 設定database路徑
 ```bash
 libpath = 'D:\\Eagle Database\\tag_test.library'
 ```
@@ -18,5 +18,3 @@ libpath = 'D:\\Eagle Database\\tag_test.library'
 ```bash
 resume_path = 'epoch044_0.02343_3.9984.pth'
 ```
-
-
